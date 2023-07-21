@@ -1,1 +1,6 @@
-# Marketing-Mix-Model
+# Marketing Analytics
+
+Employed Marketing mix modeling / media mix modeling to propose budget that is to be allocated across various adverstisement channels for a cosmetic company.
+
+Market Mix Modeling (MMM) helps in identifying the effectiveness of each advertising media in terms of its Return on Investment. Since there is a nonlinear effect of media investments on sales due to diminishing returns, we have used a square root model as our focal model.
+A cosmetics company wants to determine the effectiveness of their advertising activities on sales of a product they launched four years ago. The goal of this report is to gauge the effectiveness of their ad spends and propose a preliminary allocation model that the firm could use to guide their decision making. We have applied three steps, attribution, optimization, and budget allocation in building the right model. Attribution quantifies the effects of each variable (advertising media) in driving sales; Optimization uses elasticity of variables to run prediction scenarios toward marketing goals; at last, budget allocation applies results from attribution and optimization and aids in allocating budgets across various advertising media to maximize sales. With our model, we selected four variables that have the most significant contribution to sales with regression analysis, and we created numerous models in various combinations based on those variables to test for the best model. Then, we reallocate the advertising budget by calculating the elasticity for each advertising media.
