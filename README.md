@@ -1,4 +1,4 @@
-# Marketing Analytics
+# Marketing / Media Mix Modeling
 
 Employed Marketing/media mix modeling to propose a budget that is to be allocated across various advertisement channels for a cosmetic company.
 
